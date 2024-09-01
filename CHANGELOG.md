@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.78.0](https://github.com/k1LoW/tbls/compare/v1.77.0...v1.78.0) - 2024-09-01
+### Breaking Changes 🛠
+- Use github.com/k1LoW/errors by @k1LoW in https://github.com/k1LoW/tbls/pull/613
+### Other Changes
+- Fix using docker by @k1LoW in https://github.com/k1LoW/tbls/pull/614
+- chore(deps): bump the dependencies group across 1 directory with 8 updates by @dependabot in https://github.com/k1LoW/tbls/pull/616
+- chore(deps): bump the dependencies group with 6 updates by @dependabot in https://github.com/k1LoW/tbls/pull/618
+
 ## [v1.77.0](https://github.com/k1LoW/tbls/compare/v1.76.1...v1.77.0) - 2024-07-24
 ### Breaking Changes 🛠
 - Refactor when expression handling by @mjpieters in https://github.com/k1LoW/tbls/pull/600
